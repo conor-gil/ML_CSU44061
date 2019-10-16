@@ -7,3 +7,5 @@
 # able to be submitted properly as I did not have a prediction for each test case as they do not map
 # in properly. As a result the score I got when I submitted does not accurately reflect the performance
 # of the actual model.
+#
+# There are a couple of other models commented out at the bottom of the file
